@@ -1,5 +1,8 @@
 package BinarySearch_Arrays;
-
+/*
+https://leetcode.com/problems/binary-search/?envType=study-plan-v2&envId=binary-search
+This question can be solved using simple binary search algorithm.
+ */
 public class LeetCode704 {
     public static void main(String[] args) {
         int[] arr={1,2,3,4,5,6};
